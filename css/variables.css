@@ -1,25 +1,14 @@
 /**
  * Do not edit directly
- * Generated on Mon, 19 Sep 2022 21:20:24 GMT
+ * Generated on Mon, 19 Sep 2022 21:36:59 GMT
  */
 
 :root {
   --token-set-order-0: gotic;
-  --token-set-order-1: mono;
-  --main: #c826ff;
-  --bg-color: #faf9fb;
-  --body: #6d686e;
-  --heading: #25172b;
+  --main: #266fff;
+  --bg-color: #262427;
+  --body: #adb1b8;
+  --heading: #fbfafb;
   --buttons: #ffffff;
-  --font-families-jetbrains-mono: JetBrains Mono;
-  --font-families-dela-gothic-one: Dela Gothic One;
-  --line-heights-0: AUTO;
-  --font-weights-jetbrains-mono-1: Bold;
-  --font-weights-dela-gothic-one-0: Regular;
-  --font-size-0: 48;
-  --letter-spacing-0: 0%;
-  --paragraph-spacing-0: 0;
-  --text-case-none: none;
-  --text-decoration-none: none;
-  --rounded: 0px;
+  --rounded: 16px;
 }
