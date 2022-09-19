@@ -1,32 +1,32 @@
 {
-	"tokenSetOrder": {
-		"0": {
-			"value": "gotic",
-			"type": "other"
-		}
-	},
-	"main": {
-		"value": "#266fff",
-		"type": "color"
-	},
-	"bg-color": {
-		"value": "#262427",
-		"type": "color"
-	},
-	"body": {
-		"value": "#adb1b8",
-		"type": "color"
-	},
-	"heading": {
-		"value": "#fbfafb",
-		"type": "color"
-	},
-	"buttons": {
-		"value": "#ffffff",
-		"type": "color"
-	},
-	"rounded": {
-		"value": "16px",
-		"type": "borderRadius"
-	}
+  "tokenSetOrder": {
+    "0": {
+      "value": "gotic",
+      "type": "other"
+    }
+  },
+  "main": {
+    "value": "#266fff",
+    "type": "color"
+  },
+  "bg-color": {
+    "value": "#9b0471",
+    "type": "color"
+  },
+  "body": {
+    "value": "#adb1b8",
+    "type": "color"
+  },
+  "heading": {
+    "value": "#fbfafb",
+    "type": "color"
+  },
+  "buttons": {
+    "value": "#ffffff",
+    "type": "color"
+  },
+  "rounded": {
+    "value": "16px",
+    "type": "borderRadius"
+  }
 }
