@@ -3,31 +3,27 @@
     "0": {
       "value": "gotic",
       "type": "other"
-    },
-    "1": {
-      "value": "mono",
-      "type": "other"
     }
   },
   "main": {
-    "value": "#c826ff",
+    "value": "#266fff",
     "type": "color"
   },
   "bg-color": {
-    "value": "#faf9fb",
+    "value": "#1b1c1e",
     "type": "color"
   },
   "body": {
-    "value": "#6d686e",
+    "value": "#adb1b8",
     "type": "color"
   },
   "heading": {
-    "value": "#25172b",
+    "value": "#fbfafb",
     "type": "color",
-    "jetbrains": {
+    "delagothic": {
       "value": {
-        "fontFamily": "{fontFamilies.jetbrains-mono}",
-        "fontWeight": "{fontWeights.jetbrains-mono-1}",
+        "fontFamily": "{fontFamilies.dela-gothic-one}",
+        "fontWeight": "{fontWeights.dela-gothic-one-0}",
         "lineHeight": "{lineHeights.0}",
         "fontSize": "{fontSize.0}",
         "letterSpacing": "{letterSpacing.0}",
@@ -43,10 +39,6 @@
     "type": "color"
   },
   "fontFamilies": {
-    "jetbrains-mono": {
-      "value": "JetBrains Mono",
-      "type": "fontFamilies"
-    },
     "dela-gothic-one": {
       "value": "Dela Gothic One",
       "type": "fontFamilies"
@@ -59,10 +51,6 @@
     }
   },
   "fontWeights": {
-    "jetbrains-mono-1": {
-      "value": "Bold",
-      "type": "fontWeights"
-    },
     "dela-gothic-one-0": {
       "value": "Regular",
       "type": "fontWeights"
@@ -92,14 +80,8 @@
       "type": "textCase"
     }
   },
-  "textDecoration": {
-    "none": {
-      "value": "none",
-      "type": "textDecoration"
-    }
-  },
   "rounded": {
-    "value": "0px",
+    "value": "16px",
     "type": "borderRadius"
   }
 }
